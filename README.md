@@ -9,6 +9,7 @@ This repository is intended to curate a list of Rust crates for writing debugger
 * [object](https://github.com/gimli-rs/object) [![](https://docs.rs/object/badge.svg)](https://docs.rs/object/) - A cross-platform abstraction built atop goblin to unify handling of various object file formats
 * [addr2line](https://github.com/gimli-rs/addr2line) [![](https://docs.rs/addr2line/badge.svg)](https://docs.rs/addr2line/) - A simple interface built atop gimli to look up source file/line/function information given an address in a binary
 * [capstone](https://github.com/capstone-rust/capstone-rs) [![](https://docs.rs/capstone/badge.svg)](https://docs.rs/capstone/) - Rust interface to the [capstone](http://capstone-engine.org/) multi-architecture disassembly framework (x86/x86-64/arm/aarch64 and more)
+* [cpp_demangle](https://github.com/gimli-rs/cpp_demangle)  A crate for demangling C++ symbols.
 
 ## Working
 
