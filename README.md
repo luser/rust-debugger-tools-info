@@ -17,6 +17,7 @@ This repository is intended to curate a list of Rust crates for writing debugger
 * [spawn-ptrace](https://github.com/luser/spawn-ptrace) [![](https://docs.rs/spawn-ptrace/badge.svg)](https://docs.rs/spawn-ptrace/) - Spawn a child process with ptrace enabled
 * [spawn-task-port](https://github.com/luser/rust-spawn-task-port/) [![](https://docs.rs/spawn-task-port/badge.svg)](https://docs.rs/spawn-task-port/) - Spawn a child process on macOS and get a hold of its Mach task port
 * [read-process-memory](https://github.com/luser/read-process-memory) [![](https://docs.rs/read-process-memory/badge.svg)](https://docs.rs/read-process-memory/) - Read memory from another process
+* [elfkit](https://github.com/aep/elfkit) [![](https://docs.rs/elfkit/badge.svg)](https://docs.rs/elfkit/) - ELF manipulation for writing tools like binutils
 
 ## Experimental
 
