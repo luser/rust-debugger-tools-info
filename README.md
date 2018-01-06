@@ -18,6 +18,9 @@ This repository is intended to curate a list of Rust crates for writing debugger
 * [spawn-task-port](https://github.com/luser/rust-spawn-task-port/) [![](https://docs.rs/spawn-task-port/badge.svg)](https://docs.rs/spawn-task-port/) - Spawn a child process on macOS and get a hold of its Mach task port
 * [read-process-memory](https://github.com/luser/read-process-memory) [![](https://docs.rs/read-process-memory/badge.svg)](https://docs.rs/read-process-memory/) - Read memory from another process
 * [elfkit](https://github.com/aep/elfkit) [![](https://docs.rs/elfkit/badge.svg)](https://docs.rs/elfkit/) - ELF manipulation for writing tools like binutils
+* [lldb](https://github.com/endoli/lldb.rs) [![](https://docs.rs/lldb/badge.svg)](https://docs.rs/lldb/) - Bindings to LLDB, the LLVM debugger
+* [disassemble](https://github.com/endoli/disassemble.rs/) [![](https://docs.rs/disassemble/badge.svg)](https://docs.rs/disassemble/) - A crate for working with disassembled code
+
 
 ## Experimental
 
@@ -25,6 +28,7 @@ This repository is intended to curate a list of Rust crates for writing debugger
 * [minidump](https://github.com/luser/rust-minidump) - Parser for Microsoft minidump crash report files
 * [disasm](https://github.com/luser/rust-disasm) - A tool for producing source-interleaved disassembly built using object+moria+addr2line+capstone
 * [tracetree](https://github.com/luser/tracetree) [![](https://docs.rs/tracetree/badge.svg)](https://docs.rs/tracetree/) - Trace a process and all of its children on Linux
+* [burst](https://github.com/endoli/burst.rs) [![](https://docs.rs/burst/badge.svg)](https://docs.rs/burst/) - A disassembler that currently works with x86 and x86_64 code.
 
 ## Work in progress
 
