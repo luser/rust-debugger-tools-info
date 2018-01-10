@@ -20,6 +20,7 @@ This repository is intended to curate a list of Rust crates for writing debugger
 * [elfkit](https://github.com/aep/elfkit) [![](https://docs.rs/elfkit/badge.svg)](https://docs.rs/elfkit/) - ELF manipulation for writing tools like binutils
 * [lldb](https://github.com/endoli/lldb.rs) [![](https://docs.rs/lldb/badge.svg)](https://docs.rs/lldb/) - Bindings to LLDB, the LLVM debugger
 * [disassemble](https://github.com/endoli/disassemble.rs/) [![](https://docs.rs/disassemble/badge.svg)](https://docs.rs/disassemble/) - A crate for working with disassembled code
+* [`cargo-tarpaulin`](https://github.com/xd009642/tarpaulin) [![](https://docs.rs/tarpaulin/badge.svg)](https://docs.rs/tarpaulin) A code coverage tool for Rust projects
 
 
 ## Experimental
