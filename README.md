@@ -21,6 +21,7 @@ This repository is intended to curate a list of Rust crates for writing debugger
 * [lldb](https://github.com/endoli/lldb.rs) [![](https://docs.rs/lldb/badge.svg)](https://docs.rs/lldb/) - Bindings to LLDB, the LLVM debugger
 * [disassemble](https://github.com/endoli/disassemble.rs/) [![](https://docs.rs/disassemble/badge.svg)](https://docs.rs/disassemble/) - A crate for working with disassembled code
 * [`cargo-tarpaulin`](https://github.com/xd009642/tarpaulin) [![](https://docs.rs/tarpaulin/badge.svg)](https://docs.rs/tarpaulin) A code coverage tool for Rust projects
+* [`msvc-demangler`](https://github.com/mstange/msvc-demangler-rust) [![](https://docs.rs/msvc-demangler/badge.svg)](https://docs.rs/msvc-demangler)
 
 
 ## Experimental
